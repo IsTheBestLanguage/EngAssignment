@@ -9,7 +9,7 @@ a link to external website
 
 a link to the other markdown page
 
-[click me to the other markdown page](C:\Users\huawei\CS_Prof_ENG\SecondPage.md)
+[click me to the other markdown page](Readmylips.md)
 
 
 
