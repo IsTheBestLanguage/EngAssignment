@@ -30,7 +30,7 @@ package com.zzy.eng
 
 public class Hello {
     public static main (String[] args) {
-        System.Out.Println("I wanna a score higher than 90 please!");
+        System.Out.Println("I wanna get an A please!");
     }
 }
 ```
@@ -58,4 +58,4 @@ TO-DO List
 
 *italicized text*
 
- ~~strike thru text~~
+ ~~strike through the text~~
