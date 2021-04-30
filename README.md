@@ -9,7 +9,7 @@ a link to external website
 
 a link to the other markdown page
 
-[click me to the other markdown page](Readmylips.md)
+click [click me to the other markdown page](Readmylips.md) to
 
 
 
@@ -60,3 +60,5 @@ TO-DO List
 *italicized text*
 
  ~~strike through the text~~
+___
+The end
