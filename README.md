@@ -9,7 +9,7 @@ a link to external website
 ##
 a link to the other markdown page
 
-click [me](Readmylips.md) to the other markdown page
+ [CLICK ME](Readmylips.md) to the other markdown page
 
 ##
 
