@@ -15,7 +15,7 @@ a link to the other markdown page
 
 a picture in the directory
 
-![jessica-weiller-GAw5wFLVWVo-unsplash](README.assets/jessica-weiller-GAw5wFLVWVo-unsplash.jpg)
+![jessica-weiller-GAw5wFLVWVo-unsplash](OIP.jpg)
 
 #### -------------------------------H4 size title for segmentation---------------------------------
 
