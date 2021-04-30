@@ -25,11 +25,13 @@ a picture from the web page
 
 
 
-``` C
-#include <stdio.h>
-using namespace std;
-int main () {
-    printf("I wanna a score higher than 90 please!");
+``` Java
+package com.zzy.eng
+
+public class Hello {
+    public static main (String[] args) {
+        System.Out.Println("I wanna a score higher than 90 please!");
+    }
 }
 ```
 
