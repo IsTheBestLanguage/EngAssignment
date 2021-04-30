@@ -30,6 +30,7 @@ package com.zzy.eng
 
 public class Hello {
     public static main (String[] args) {
+        System.Out.Println("This is Java code");
         System.Out.Println("I wanna get an A please!");
     }
 }
@@ -49,10 +50,10 @@ TO-DO List
 2. xxx
 3. xxx
 
-| &    | 0    | 1    |
+| 2    | 3    | 9    |
 | ---- | ---- | ---- |
-| 0    | 0    | 0    |
-| 1    | 0    | 1    |
+| 8    | 4    | 5    |
+| 1    | 6    | 7    |
 
 **bolded text**
 
