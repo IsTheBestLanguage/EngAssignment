@@ -6,12 +6,12 @@ a link to external website
 > www.baidu.com
 
 
-
+##
 a link to the other markdown page
 
 click [me](Readmylips.md) to the other markdown page
 
-
+##
 
 a picture in the directory
 
@@ -60,5 +60,5 @@ TO-DO List
 *italicized text*
 
  ~~strike through the text~~
----
+___
 The end
