@@ -10,7 +10,7 @@ a link to external website
 
 a link to the other markdown page
 
-[click me to the homepage](README.md)
+[CLICK ME](README.md) to the homepage
 
 
 
